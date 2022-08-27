@@ -22,7 +22,8 @@ pip install supertools wheel
 
 pip install shutup
 
-git clone https://github.com/firstapostle/Blood
+git clone https://github.com/Mcomedia/Blood1
+
 cd Blood
 
 export CARGO_BUILD_TARGET=aarch64-linux-android && python3 -m pip install cryptography
